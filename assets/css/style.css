@@ -86,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/* elements with same values simplified and separated by commas to save space and make it look neater */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -93,6 +94,7 @@ p {
     color: #ffffff;
 }
 
+/* elements with same values simplified and separated by commas to save space and make it look neater */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost h3 {
@@ -100,6 +102,7 @@ p {
     text-align: center;
 }
 
+/* elements with same values simplified and separated by commas to save space and make it look neater */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -108,6 +111,7 @@ p {
     max-width: 150px;
 }
 
+/* elements with same values simplified and separated by commas to save space and make it look neater */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -119,12 +123,14 @@ p {
     color: #ffffff;
 }
 
+/* elements with same values simplified and separated by commas to save space and make it look neater */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* elements with same values simplified and separated by commas to save space and make it look neater */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {

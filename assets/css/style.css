@@ -145,6 +145,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* h2 changed to h4 to match html changes and ensure the headers fall in sequential order */
+.footer h4 {
     font-size: 20px;
 }

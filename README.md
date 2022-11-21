@@ -12,6 +12,7 @@ Refactoring existing code to make the web page more accessible.
 -  The site is now optimized for search engines
 -  I  found, tested and fixed a broken link, I added comments throughout for future developers to show what has been done, I simplified the code to make it cleaner and easier to read. I added semantic code throughout and removed div elements.
 
+https://alanabf.github.io/HTML-CSS-Git-Code-Refactor/ 
 
 ## Installation
 

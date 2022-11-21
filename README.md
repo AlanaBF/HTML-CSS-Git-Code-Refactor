@@ -10,7 +10,7 @@ Refactoring existing code to make the web page more accessible.
 -  Heading attributes fall in sequential order
 -  Title elements contain a concise, descriptive title
 -  The site is now optimized for search engines
--  I learnt to find, test and fix a broken link, I added comments throughout for future developers to show what has been done, I simplified the code to make it cleaner and easier to read. I added semantic code throughout and removed div elements.
+-  I  found, tested and fixed a broken link, I added comments throughout for future developers to show what has been done, I simplified the code to make it cleaner and easier to read. I added semantic code throughout and removed div elements.
 
 ## Installation
 
@@ -18,7 +18,11 @@ N/A
 
 ## Usage
 
-Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first. 
+The webpage is for a company called Horiseon. It contains information and links on Search Engine Optimization, Online Reputation management and Social Media Marketing.
+
+The Webpage has been updated to be more accessible without changing the original format or style of the webpage.
+
+It's aim is to give information on reduce workload for businesse while becoming more efficient, visible and optimized. Specifically through  Lead Generation, Brand Awareness and Cost Management.
 
 ## Credits
 

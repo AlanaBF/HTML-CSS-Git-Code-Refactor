@@ -12,6 +12,7 @@ Refactoring existing code to make the web page more accessible.
 -  The site is now optimized for search engines
 -  I  found, tested and fixed a broken link, I added comments throughout for future developers to show what has been done, I simplified the code to make it cleaner and easier to read. I added semantic code throughout and removed div elements.
 
+
 ## Installation
 
 N/A
@@ -23,6 +24,10 @@ The webpage is for a company called Horiseon. It contains information and links 
 The Webpage has been updated to be more accessible without changing the original format or style of the webpage.
 
 It's aim is to give information on reduce workload for businesse while becoming more efficient, visible and optimized. Specifically through  Lead Generation, Brand Awareness and Cost Management.
+
+```md
+![alt text](assets/images/Screenshot%202022-11-21%20at%2019.31.58.png.png)
+```
 
 ## Credits
 

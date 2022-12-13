@@ -26,7 +26,7 @@ The Webpage has been updated to be more accessible without changing the original
 
 It's aim is to give information on reduced workload for businesses while becoming more efficient, visible and optimized. Specifically through  Lead Generation, Brand Awareness and Cost Management.
 
-![alt text](assets/images/Screenshot%202022-11-21%20at%2019.31.58.png)
+![alt text](assets/images/Horiseon-Screenshot.png)
 
 ## Credits
 
